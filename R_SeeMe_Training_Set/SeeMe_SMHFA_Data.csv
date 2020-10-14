@@ -1,0 +1,656 @@
+,Survey_number,School,confident_peers_pre,respond_struggling_pre,challenging_stigma_pre,confident_post,respond_struggling_post,challenging_stigma_post,use_training,participate,contribute,goal
+1,2018,Kelso,5,4,3,NA,NA,NA,5,5,5,NA
+2,2018,Kelso,2,3,3,5,4,4,4,4,4,NA
+3,2018,Kelso,2,2,2,5,5,5,5,5,5,NA
+4,2018,Kelso,5,3,3,5,5,4,4,5,5,NA
+5,2018,Kelso,2,3,3,4,3,3,3,4,5,4
+6,2018,Kelso,5,4,3,5,5,4,5,5,5,NA
+7,2018,Kelso,2,5,3,4,4,4,4,4,4,NA
+8,2018,Kelso,3,3,4,4,5,3,4,5,5,NA
+9,2018,Kelso,3,5,4,4,1,1,4,3,3,5
+10,2018,Kelso,4,4,4,5,4,5,4,5,5,NA
+11,2018,Kelso,3,4,3,5,5,4,5,5,5,NA
+12,2018,Kelso,4,4,4,5,4,5,5,5,5,5
+13,2018,Kelso,3,4,3,4,5,4,4,5,5,NA
+14,2018,Kelso,4,5,5,NA,NA,NA,NA,NA,NA,5
+15,2018,Kelso,4,4,4,4,4,4,4,5,5,NA
+16,2018,Kelso,5,5,5,5,5,4,5,5,5,NA
+17,2018,Kelso,5,5,5,5,5,5,5,5,5,NA
+18,2018,Kelso,1,2,2,NA,NA,NA,NA,NA,NA,NA
+19,2018,Kelso,4,3,3,4,5,5,5,5,5,NA
+20,2018,Kelso,4,4,4,5,5,5,5,5,5,NA
+21,2018,Kelso,3,4,3,5,5,4,5,5,5,NA
+22,2018,Kelso,3,5,4,5,5,5,5,5,5,NA
+23,2018,Kelso,5,4,4,5,4,4,5,5,5,1
+24,2018,Kelso,4,4,4,4,4,4,5,5,5,1
+25,2018,Kelso,3,5,3,NA,NA,NA,NA,NA,NA,4
+26,2018,Kelso,3,4,4,4,4,4,5,5,5,1
+27,2018,Kelso,4,4,4,5,5,3,5,4,3,NA
+28,2018,Kelso,4,2,4,5,5,4,5,4,3,NA
+29,2018,Kelso,4,4,4,5,5,4,5,5,5,1
+30,2018,Kelso,4,3,3,NA,NA,NA,5,5,5,5
+31,2018,Kelso,4,5,5,5,4,5,5,5,5,NA
+32,2018,Kelso,5,5,5,5,5,5,5,5,5,NA
+33,2018,Kelso,4,4,3,NA,NA,NA,NA,NA,NA,NA
+34,2018,Kelso,4,5,4,5,4,4,4,4,5,NA
+35,2018,Kelso,4,4,4,4,4,4,4,5,5,NA
+36,2018,Kelso,4,4,4,5,5,5,5,5,4,4
+37,2018,Kelso,3,4,3,4,4,4,4,5,4,5
+38,2018,Kelso,3,4,4,5,4,4,5,5,5,4
+39,2018,Kelso,3,2,2,4,4,4,4,5,5,NA
+40,2018,Kelso,3,4,4,3,5,5,3,5,5,4
+41,2018,Kelso,3,4,4,4,4,4,4,5,5,4
+42,2018,Kelso,3,4,4,NA,NA,NA,NA,5,5,NA
+43,2018,Kelso,5,5,5,NA,NA,NA,5,5,5,NA
+44,2018,Kelso,3,4,4,4,4,4,4,5,5,4
+45,2018,Kelso,5,4,5,5,5,5,5,5,5,NA
+46,2018,Kelso,2,4,4,4,4,4,4,4,4,NA
+47,2018,Kelso,4,3,2,4,4,4,4,3,4,4
+48,2018,Selkirk and Jedburgh,1,1,1,5,5,5,5,5,5,NA
+49,2018,Selkirk and Jedburgh,4,4,4,5,5,5,5,5,5,5
+50,2018,Selkirk and Jedburgh,4,4,5,5,5,4,5,5,5,5
+51,2018,Selkirk and Jedburgh,4,4,4,5,5,5,5,5,5,5
+52,2018,Selkirk and Jedburgh,5,3,3,5,4,5,5,5,5,NA
+53,2018,Selkirk and Jedburgh,2,1,5,4,5,5,4,5,5,5
+54,2018,Selkirk and Jedburgh,2,2,4,5,5,5,5,5,5,1
+55,2018,Selkirk and Jedburgh,3,4,5,5,5,5,5,5,5,NA
+56,2018,Selkirk and Jedburgh,3,3,5,5,4,5,5,5,5,NA
+57,2018,Selkirk and Jedburgh,5,4,4,5,5,5,5,5,4,5
+58,2018,Selkirk and Jedburgh,4,4,4,5,5,5,5,5,5,NA
+59,2018,Selkirk and Jedburgh,3,2,3,4,5,5,4,5,5,5
+60,2018,Selkirk and Jedburgh,5,4,5,4,4,5,4,5,5,1
+61,2018,Selkirk and Jedburgh,4,5,3,5,5,5,5,5,5,3
+62,2018,Selkirk and Jedburgh,3,4,3,3,4,4,4,5,4,4
+63,2018,Selkirk and Jedburgh,4,5,5,5,5,5,5,5,5,5
+64,2018,Selkirk and Jedburgh,4,5,4,4,5,5,4,5,5,2
+65,2018,Selkirk and Jedburgh,3,4,4,4,4,4,4,4,4,4
+66,2018,Selkirk and Jedburgh,3,3,2,5,5,5,5,5,5,5
+67,2018,Selkirk and Jedburgh,3,3,3,3,4,3,3,4,4,5
+68,2018,Selkirk and Jedburgh,3,4,4,5,4,5,5,4,4,5
+69,2018,Selkirk and Jedburgh,3,3,3,4,4,4,4,5,5,5
+70,2018,Selkirk and Jedburgh,5,4,4,5,5,5,5,5,5,NA
+71,2018,Selkirk and Jedburgh,4,3,3,5,4,4,5,5,5,4
+72,2018,Selkirk and Jedburgh,3,2,3,4,4,5,4,5,5,4
+73,2018,Selkirk and Jedburgh,1,4,5,4,5,5,3,5,5,5
+74,2018,Selkirk and Jedburgh,3,4,3,5,5,4,4,5,5,5
+75,2018,Selkirk and Jedburgh,4,4,4,5,4,5,5,5,5,5
+76,2018,Selkirk and Jedburgh,2,3,5,5,4,5,5,5,5,5
+77,2018,Selkirk and Jedburgh,4,3,3,5,4,5,5,4,5,5
+78,2018,Selkirk and Jedburgh,4,3,3,4,5,3,4,4,3,5
+79,2018,Selkirk and Jedburgh,3,4,4,4,5,5,5,4,4,5
+80,2018,Selkirk and Jedburgh,3,3,3,4,3,3,3,5,5,2
+81,2018,Selkirk and Jedburgh,2,2,3,4,4,4,5,5,5,5
+82,2018,Selkirk and Jedburgh,4,2,4,4,4,3,4,5,5,4
+83,2018,Selkirk and Jedburgh,5,3,5,4,4,5,5,5,5,5
+84,2018,Selkirk and Jedburgh,5,4,4,4,4,4,4,4,4,4
+85,2018,Selkirk and Jedburgh,4,4,1,4,2,4,4,5,5,NA
+86,2018,Selkirk and Jedburgh,4,4,1,4,4,2,3,3,2,NA
+87,2018,Selkirk and Jedburgh,4,4,3,4,4,5,4,5,5,NA
+88,2018,Selkirk and Jedburgh,4,4,4,4,5,4,5,5,4,NA
+89,2018,Selkirk and Jedburgh,5,3,4,5,5,4,5,5,5,NA
+90,2018,Selkirk and Jedburgh,3,2,3,4,4,3,4,4,4,NA
+91,2018,Selkirk and Jedburgh,4,4,4,4,4,4,4,4,4,5
+92,2018,Selkirk and Jedburgh,4,1,3,5,4,4,5,5,5,NA
+93,2018,Selkirk and Jedburgh,3,4,4,4,5,5,5,5,5,NA
+94,2018,Selkirk and Jedburgh,4,4,4,5,5,5,5,5,5,5
+95,2018,Selkirk and Jedburgh,4,5,4,5,5,5,5,5,5,2
+96,2018,Selkirk and Jedburgh,3,4,3,4,4,4,4,4,4,NA
+97,2018,Selkirk and Jedburgh,3,4,3,5,4,4,4,5,5,2
+98,2018,Selkirk and Jedburgh,5,5,5,5,4,4,5,5,5,5
+99,2018,Selkirk and Jedburgh,3,4,4,5,5,5,5,5,4,NA
+100,2018,Selkirk and Jedburgh,5,3,4,5,4,5,5,5,5,NA
+101,2018,Selkirk and Jedburgh,5,4,NA,5,4,5,5,5,5,5
+102,2018,Selkirk and Jedburgh,3,5,5,2,5,4,2,5,5,5
+103,2018,Selkirk and Jedburgh,3,4,4,4,4,4,4,4,4,5
+104,2018,Selkirk and Jedburgh,3,3,4,4,5,4,4,5,5,5
+105,2018,Selkirk and Jedburgh,3,3,3,4,5,5,4,5,5,NA
+106,2018,Selkirk and Jedburgh,2,2,3,3,4,4,4,5,5,5
+107,2018,Selkirk and Jedburgh,3,2,3,4,5,5,5,5,5,NA
+108,2018,Selkirk and Jedburgh,3,4,4,5,4,5,5,4,3,5
+109,2018,Selkirk and Jedburgh,3,2,3,5,4,5,5,5,5,NA
+110,2018,Selkirk and Jedburgh,4,4,3,5,5,4,5,5,5,5
+111,2018,Selkirk and Jedburgh,4,5,4,5,5,5,5,5,4,4
+112,2018,Selkirk and Jedburgh,3,4,5,4,4,5,4,5,5,5
+113,2018,Selkirk and Jedburgh,4,3,3,5,4,4,4,5,5,5
+114,2018,Selkirk and Jedburgh,4,3,3,5,4,4,5,4,4,5
+115,2018,Selkirk and Jedburgh,5,4,5,5,4,5,5,5,5,5
+116,2018,Selkirk and Jedburgh,2,2,3,2,2,2,2,1,1,5
+117,2018,Selkirk and Jedburgh,4,4,4,5,5,5,4,5,5,5
+118,2018,Selkirk and Jedburgh,5,4,5,5,4,5,5,5,5,NA
+119,2018,Selkirk and Jedburgh,3,3,3,3,3,3,3,3,3,3
+120,2018,Selkirk and Jedburgh,2,3,3,5,4,4,NA,NA,NA,NA
+121,2018,Selkirk and Jedburgh,NA,NA,NA,5,4,4,NA,NA,NA,5
+122,2018,Selkirk and Jedburgh,5,4,5,4,5,4,5,5,5,5
+123,2018,Selkirk and Jedburgh,4,4,3,3,2,2,2,4,4,4
+124,2018,Selkirk and Jedburgh,2,4,4,3,5,4,3,5,5,5
+125,2018,Selkirk and Jedburgh,5,5,5,5,5,5,5,5,5,NA
+126,2018,Selkirk and Jedburgh,5,5,5,5,4,5,5,5,4,NA
+127,2018,Selkirk and Jedburgh,4,2,4,5,4,5,5,5,5,NA
+128,2018,Selkirk and Jedburgh,3,4,4,4,5,4,5,4,4,NA
+129,2018,Selkirk and Jedburgh,3,4,4,5,4,4,5,5,5,5
+130,2018,Eyemouth and Berwickshire,NA,NA,NA,5,4,5,5,5,5,NA
+131,2018,Eyemouth and Berwickshire,5,3,4,5,5,4,5,5,5,5
+132,2018,Eyemouth and Berwickshire,3,3,3,5,5,5,NA,NA,NA,NA
+133,2018,Eyemouth and Berwickshire,5,4,5,5,5,5,5,5,5,5
+134,2018,Eyemouth and Berwickshire,3,3,4,4,4,4,4,5,5,NA
+135,2018,Eyemouth and Berwickshire,5,5,4,NA,NA,NA,5,5,5,4
+136,2018,Eyemouth and Berwickshire,5,5,4,5,4,4,5,5,5,4
+137,2018,Eyemouth and Berwickshire,4,4,4,5,5,5,5,5,5,4
+138,2018,Eyemouth and Berwickshire,4,4,4,4,4,4,5,5,5,NA
+139,2018,Eyemouth and Berwickshire,5,3,3,5,5,5,5,5,5,5
+140,2018,Eyemouth and Berwickshire,2,3,4,5,5,5,5,5,5,4
+141,2018,Eyemouth and Berwickshire,3,4,4,5,5,5,5,5,5,5
+142,2018,Eyemouth and Berwickshire,3,4,4,5,5,5,5,5,5,5
+143,2018,Eyemouth and Berwickshire,3,3,4,5,4,5,5,5,5,5
+144,2018,Eyemouth and Berwickshire,5,4,5,5,5,5,4,4,5,NA
+145,2018,Eyemouth and Berwickshire,4,4,5,5,4,5,5,5,4,NA
+146,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+147,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+148,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+149,2018,Eyemouth and Berwickshire,4,5,4,4,5,4,5,5,5,NA
+150,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+151,2018,Eyemouth and Berwickshire,2,3,3,4,4,5,5,5,5,NA
+152,2018,Eyemouth and Berwickshire,3,4,4,5,5,5,4,5,5,5
+153,2018,Eyemouth and Berwickshire,3,4,5,5,5,5,5,5,5,NA
+154,2018,Eyemouth and Berwickshire,2,2,3,5,4,5,5,5,5,5
+155,2018,Eyemouth and Berwickshire,5,4,3,5,4,4,5,5,5,5
+156,2018,Eyemouth and Berwickshire,3,4,4,4,4,5,5,5,5,NA
+157,2018,Eyemouth and Berwickshire,3,1,3,4,5,5,5,5,5,NA
+158,2018,Eyemouth and Berwickshire,5,3,3,5,4,4,5,5,5,5
+159,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,5
+160,2018,Eyemouth and Berwickshire,4,4,5,5,5,5,5,5,5,5
+161,2018,Eyemouth and Berwickshire,4,4,4,4,4,4,4,4,4,NA
+162,2018,Eyemouth and Berwickshire,NA,NA,NA,5,4,3,5,4,5,NA
+163,2018,Eyemouth and Berwickshire,5,3,3,5,4,4,5,5,5,5
+164,2018,Eyemouth and Berwickshire,2,4,4,2,5,5,4,5,5,5
+165,2018,Eyemouth and Berwickshire,3,3,3,3,3,3,3,3,3,4
+166,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+167,2018,Eyemouth and Berwickshire,5,4,5,4,4,4,4,5,5,NA
+168,2018,Eyemouth and Berwickshire,4,5,4,5,5,5,5,5,5,5
+169,2018,Eyemouth and Berwickshire,3,4,5,4,4,5,4,5,5,NA
+170,2018,Eyemouth and Berwickshire,5,5,4,5,4,4,5,5,5,NA
+171,2018,Eyemouth and Berwickshire,5,4,4,5,4,4,5,5,5,NA
+172,2018,Eyemouth and Berwickshire,5,5,4,5,5,5,5,5,5,4
+173,2018,Eyemouth and Berwickshire,4,5,5,5,5,5,5,5,5,NA
+174,2018,Eyemouth and Berwickshire,4,4,4,3,5,5,4,5,5,NA
+175,2018,Eyemouth and Berwickshire,5,5,5,3,5,5,3,5,5,NA
+176,2018,Eyemouth and Berwickshire,4,4,4,4,4,4,5,4,4,5
+177,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,2
+178,2018,Eyemouth and Berwickshire,3,3,3,3,3,3,4,4,4,NA
+179,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,5,NA
+180,2018,Eyemouth and Berwickshire,5,5,5,5,5,5,5,5,4,5
+181,2018,Eyemouth and Berwickshire,5,5,4,5,5,5,5,5,5,NA
+182,2018,Earlston,5,4,3,5,5,5,5,5,5,NA
+183,2018,Earlston,3,3,5,4,4,5,4,5,5,NA
+184,2018,Earlston,4,4,3,4,4,4,5,5,5,NA
+185,2018,Earlston,2,4,3,NA,NA,NA,NA,NA,NA,NA
+186,2018,Earlston,5,5,5,5,5,5,5,5,5,NA
+187,2018,Earlston,3,4,4,4,5,5,2,5,5,NA
+188,2018,Earlston,4,3,4,4,4,4,5,5,5,NA
+189,2018,Earlston,4,3,3,5,5,5,5,5,5,NA
+190,2018,Earlston,5,4,4,5,5,5,5,5,5,NA
+191,2018,Earlston,3,4,4,5,5,5,5,5,5,3
+192,2018,Earlston,5,4,4,5,5,5,5,5,5,NA
+193,2018,Earlston,5,4,5,5,5,5,5,4,5,3
+194,2018,Earlston,3,3,3,4,5,5,5,5,5,5
+195,2018,Earlston,4,3,2,4,4,3,4,5,5,NA
+196,2018,Earlston,3,3,3,4,5,3,4,5,5,NA
+197,2018,Earlston,1,3,3,3,5,5,4,4,4,NA
+198,2018,Earlston,4,5,4,5,5,5,5,5,5,3
+199,2018,Earlston,4,5,4,5,5,5,5,5,5,3
+200,2018,Earlston,4,3,5,5,5,5,5,5,5,NA
+201,2018,Earlston,5,2,3,5,4,4,5,5,5,NA
+202,2018,Earlston,4,4,3,5,5,5,5,5,5,NA
+203,2018,Earlston,5,5,5,5,5,5,5,5,5,NA
+204,2018,Earlston,4,4,4,5,5,5,5,5,5,NA
+205,2018,Earlston,5,2,2,4,5,4,4,5,5,NA
+206,2018,Earlston,5,4,3,1,3,3,5,4,5,1
+207,2018,Earlston,5,4,3,4,NA,5,5,5,5,NA
+208,2018,Earlston,3,3,4,4,4,4,4,4,3,4
+209,2018,Earlston,3,5,5,5,5,5,5,5,5,5
+210,2018,Earlston,4,4,4,5,5,5,5,5,5,NA
+211,2018,Earlston,5,4,4,5,5,5,5,4,4,NA
+212,2018,Earlston,3,3,3,NA,NA,NA,NA,NA,NA,NA
+213,2018,Earlston,3,5,4,4,5,4,5,5,5,5
+214,2018,Earlston,2,1,3,4,4,4,4,4,5,4
+215,2018,Earlston,4,2,3,5,4,4,5,4,4,4
+216,2018,Earlston,4,4,4,5,5,5,5,5,5,NA
+217,2018,Earlston,5,5,5,5,4,4,5,5,5,4
+218,2018,Earlston,4,3,4,5,5,4,5,5,4,5
+219,2018,Earlston,5,5,5,5,5,5,5,5,5,NA
+220,2018,Earlston,5,5,4,5,5,5,5,5,5,4
+221,2018,Earlston,4,5,4,5,5,5,5,5,4,4
+222,2018,Earlston,4,4,4,4,4,4,4,5,5,2
+223,2018,Earlston,5,5,5,3,3,3,5,5,5,NA
+224,2018,Earlston,2,3,4,2,3,2,5,4,2,NA
+225,2018,Earlston,4,2,4,5,4,5,5,5,5,4
+226,2018,Earlston,3,3,4,4,5,5,5,5,5,5
+227,2018,Earlston,3,3,3,5,4,4,5,5,5,5
+228,2018,Earlston,5,2,2,5,4,5,4,5,5,4
+229,2018,Earlston,3,4,4,5,4,4,5,5,5,5
+230,2018,Earlston,3,4,4,4,5,4,4,5,5,5
+231,2018,Earlston,3,3,3,4,4,4,4,5,5,4
+232,2018,Earlston,3,4,4,5,4,4,5,5,5,5
+233,2018,Earlston,3,3,3,5,4,4,5,5,4,3
+234,2018,Earlston,5,4,4,5,5,5,4,5,5,4
+235,2018,Earlston,5,4,3,5,5,5,5,5,5,5
+236,2018,Earlston,3,4,4,5,4,4,5,5,4,5
+237,2018,Earlston,3,4,4,5,5,5,5,5,5,4
+238,2018,Earlston,3,4,3,4,3,4,4,3,4,4
+239,2018,Earlston,NA,NA,NA,5,5,5,5,5,5,NA
+240,2018,Earlston,3,3,4,4,4,4,4,5,4,3
+241,2018,Earlston,3,3,3,2,3,2,2,5,2,NA
+242,2018,Earlston,1,1,1,2,3,2,2,5,2,NA
+243,2018,Earlston,5,4,4,5,4,5,5,5,5,NA
+244,2018,Earlston,NA,NA,NA,4,4,5,4,5,5,NA
+245,2018,Earlston,4,5,5,5,5,5,5,5,5,5
+246,2018,Earlston,5,4,5,5,5,5,5,5,5,NA
+247,2018,Earlston,4,4,4,4,4,4,4,4,4,4
+248,2018,Earlston,5,4,5,5,5,5,5,4,4,NA
+249,2018,Earlston,4,2,3,5,4,4,4,4,5,5
+250,2018,Earlston,3,4,4,5,5,4,4,4,4,NA
+251,2018,Earlston,5,5,5,5,5,5,5,5,5,5
+252,2018,Earlston,5,3,3,4,4,3,5,5,5,4
+253,2018,Earlston,5,3,3,5,5,5,5,4,4,4
+254,2018,Earlston,3,2,3,4,5,4,4,5,5,5
+255,2018,Earlston,3,3,4,NA,NA,NA,4,4,4,NA
+256,2018,Earlston,5,5,5,5,5,5,5,5,5,NA
+257,2018,Earlston,3,3,3,3,3,3,3,4,3,NA
+258,2018,Earlston,3,2,3,3,3,3,3,3,3,NA
+259,2018,Earlston,4,3,3,5,4,4,5,5,5,NA
+260,2018,Earlston,4,3,3,4,5,4,5,4,4,NA
+261,2018,Earlston,5,5,3,5,5,5,5,5,5,5
+262,2018,Earlston,5,4,2,5,5,5,5,5,5,NA
+263,2018,Earlston,5,4,5,5,5,5,5,5,5,5
+264,2018,Earlston,5,3,4,5,5,5,5,5,5,5
+265,2018,Earlston,5,4,5,5,5,5,5,5,5,5
+266,2018,Earlston,4,3,4,5,4,5,5,5,5,5
+267,2018,Earlston,4,4,4,5,5,5,5,5,5,5
+268,2018,Earlston,3,2,3,4,4,5,4,5,5,4
+269,2018,Earlston,3,2,4,4,3,4,5,5,4,5
+270,2018,Earlston,4,2,4,4,4,4,4,5,5,4
+271,2018,Earlston,3,2,NA,4,4,4,3,5,5,5
+272,2018,Earlston,3,3,3,4,4,5,5,5,5,NA
+273,2018,Earlston,4,4,4,5,5,5,5,5,5,5
+274,2018,Earlston,4,3,4,5,4,5,5,5,5,4
+275,2018,Earlston,4,4,4,5,5,5,5,5,5,NA
+276,2018,Peebles High School,4,4,3,5,5,4,5,5,5,5
+277,2018,Peebles High School,4,4,4,5,5,5,5,5,5,5
+278,2018,Peebles High School,4,4,3,5,4,3,5,5,5,5
+279,2018,Peebles High School,4,3,3,5,4,5,5,5,5,5
+280,2018,Peebles High School,4,3,4,5,4,5,5,5,5,4
+281,2018,Peebles High School,4,3,3,5,4,4,5,5,5,4
+282,2018,Peebles High School,5,4,3,5,5,4,5,5,5,5
+283,2018,Peebles High School,5,4,3,5,5,4,5,5,5,5
+284,2018,Peebles High School,4,3,5,5,5,5,5,5,5,4
+285,2018,Peebles High School,4,4,3,4,4,4,4,5,5,4
+286,2018,Peebles High School,5,3,3,4,4,5,5,5,5,5
+287,2018,Peebles High School,5,4,4,5,5,5,5,5,5,5
+288,2018,Peebles High School,4,4,4,5,5,5,5,5,5,5
+289,2018,Peebles High School,4,4,4,5,5,5,5,5,5,5
+290,2018,Peebles High School,4,4,3,5,5,5,5,5,5,5
+291,2018,Peebles High School,5,5,5,5,5,5,5,5,5,4
+292,2018,Peebles High School,4,4,4,5,4,5,4,5,4,5
+293,2018,Peebles High School,4,3,4,5,5,5,5,5,5,4
+294,2018,Peebles High School,4,2,2,5,4,5,4,5,3,4
+295,2018,Peebles High School,5,5,4,5,5,5,5,5,5,5
+296,2018,Peebles High School,5,5,5,5,5,5,5,5,5,5
+297,2018,Peebles High School,4,5,4,5,5,5,5,5,5,5
+298,2018,Peebles High School,5,4,4,5,5,5,5,5,5,5
+299,2018,Peebles High School,4,4,4,5,5,5,5,5,5,5
+300,2018,Peebles High School,5,5,5,5,5,5,5,5,5,5
+301,2018,Peebles High School,1,4,4,4,4,5,4,4,4,4
+302,2018,Peebles High School,4,3,3,5,4,4,4,5,5,4
+303,2018,Peebles High School,5,3,4,4,5,5,5,5,5,5
+304,2018,Peebles High School,2,5,3,4,5,4,4,5,5,5
+305,2018,Peebles High School,4,5,3,5,5,5,5,5,5,5
+306,2018,Peebles High School,1,3,3,5,3,4,1,5,2,2
+307,2018,Peebles High School,5,4,4,4,4,5,5,5,5,5
+308,2018,Peebles High School,3,3,3,4,4,4,4,5,5,3
+309,2018,Peebles High School,5,4,4,4,4,4,4,5,5,5
+310,2018,Peebles High School,4,5,5,5,5,5,5,5,4,5
+311,2018,Peebles High School,5,4,3,5,5,5,4,5,5,4
+312,2018,Peebles High School,4,5,4,3,5,4,5,4,5,4
+313,2018,Peebles High School,3,4,4,4,4,4,4,5,5,5
+314,2018,Peebles High School,5,5,4,5,5,5,5,5,5,5
+315,2018,Hawick High School,4,4,4,5,5,5,5,5,5,5
+316,2018,Hawick High School,4,3,3,5,4,5,5,5,5,4
+317,2018,Hawick High School,1,3,3,2,5,3,2,5,5,4
+318,2018,Hawick High School,3,3,3,2,2,2,4,5,5,5
+319,2018,Hawick High School,5,4,4,5,5,5,5,5,5,5
+320,2018,Hawick High School,2,5,3,4,4,5,4,5,1,3
+321,2018,Hawick High School,1,1,5,2,2,4,1,5,5,2
+322,2018,Hawick High School,2,4,4,2,4,4,2,5,4,3
+323,2018,Hawick High School,4,3,3,4,4,4,4,5,5,4
+324,2018,Hawick High School,5,3,3,5,4,4,5,5,5,5
+325,2018,Hawick High School,3,4,3,4,4,4,4,5,5,5
+326,2018,Hawick High School,3,2,1,5,4,4,5,5,5,5
+327,2018,Hawick High School,4,3,4,4,4,5,4,5,5,5
+328,2018,Hawick High School,4,2,3,4,4,3,4,5,4,4
+329,2018,Hawick High School,5,5,4,4,5,4,5,5,5,4
+330,2018,Hawick High School,3,4,4,3,4,4,3,5,5,5
+331,2018,Hawick High School,5,3,3,4,3,4,5,5,5,4
+332,2018,Hawick High School,3,4,3,5,5,4,5,5,5,4
+333,2018,Hawick High School,4,2,3,4,4,4,5,5,5,4
+334,2018,Hawick High School,2,2,4,4,4,5,4,5,5,5
+335,2018,Hawick High School,4,4,5,5,5,5,5,5,5,5
+336,2018,Hawick High School,3,4,3,5,4,5,5,5,5,5
+337,2018,Hawick High School,4,3,4,5,4,5,5,5,5,5
+338,2018,Hawick High School,4,2,5,5,5,5,5,5,5,5
+339,2018,Hawick High School,4,3,4,5,4,5,5,5,5,5
+340,2018,Hawick High School,4,2,4,4,4,5,4,5,5,4
+341,2018,Hawick High School,4,3,5,4,4,5,4,5,5,4
+342,2018,Hawick High School,3,4,3,5,4,4,5,5,4,5
+343,2018,Hawick High School,2,4,3,4,4,5,4,5,5,4
+344,2018,Hawick High School,2,4,3,4,5,5,5,5,5,5
+345,2018,Hawick High School,3,3,3,5,5,5,5,5,5,3
+346,2018,Hawick High School,4,3,4,5,4,5,5,5,5,5
+347,2018,Hawick High School,2,2,2,4,4,4,4,5,5,4
+348,2018,Hawick High School,2,2,2,4,5,4,4,5,5,4
+349,2018,Hawick High School,2,4,4,5,4,5,5,5,5,5
+350,2018,Hawick High School,4,4,3,4,5,4,4,5,5,4
+351,2018,Hawick High School,5,4,3,5,4,5,5,5,5,5
+352,2018,Hawick High School,5,5,5,5,5,5,5,5,5,4
+353,2018,Hawick High School,3,4,4,4,4,5,5,5,4,NA
+354,2018,Hawick High School,1,1,1,5,5,5,5,5,5,5
+355,2018,Hawick High School,4,4,4,4,5,5,5,5,5,5
+356,2018,Hawick High School,4,4,3,5,5,4,5,4,4,4
+357,2018,Hawick High School,5,5,4,5,5,5,5,5,5,NA
+358,2018,Hawick High School,4,3,4,4,4,5,5,5,5,NA
+359,2018,Hawick High School,4,4,4,4,4,4,4,4,4,4
+360,2018,Hawick High School,4,4,3,4,4,4,4,5,5,5
+361,2018,Hawick High School,4,4,4,5,4,5,4,5,5,4
+362,2018,Hawick High School,3,5,3,5,4,5,5,5,5,4
+363,2018,Hawick High School,4,4,4,4,4,4,4,5,5,5
+364,2018,Hawick High School,3,3,2,4,4,4,4,4,5,5
+365,2018,Hawick High School,4,3,3,4,4,4,4,4,5,5
+366,2018,Hawick High School,3,4,4,5,4,5,5,5,5,5
+367,2018,Hawick High School,4,4,5,5,5,5,5,5,5,5
+368,2018,Hawick High School,4,4,3,5,5,5,5,5,5,NA
+369,2018,Hawick High School,4,4,3,4,5,4,5,5,5,5
+370,2018,Dunoon,4,4,5,5,5,5,5,5,5,5
+371,2018,Dunoon,5,4,4,5,5,5,5,5,5,5
+372,2018,Dunoon,2,3,4,4,4,4,4,5,5,4
+373,2018,Dunoon,4,4,4,5,5,5,5,5,5,NA
+374,2018,Dunoon,5,4,4,5,5,5,5,5,5,5
+375,2018,Dunoon,5,4,4,5,5,5,5,5,5,5
+376,2018,Dunoon,5,3,4,5,4,4,5,5,5,5
+377,2018,Dunoon,5,5,4,4,5,5,4,5,5,NA
+378,2018,Dunoon,4,4,3,5,5,5,5,5,5,5
+379,2018,Dunoon,4,4,2,4,4,3,4,5,5,NA
+380,2018,Dunoon,4,4,4,5,5,5,5,5,5,5
+381,2018,Dunoon,4,4,4,5,5,5,5,5,5,NA
+382,2019,Lanarkshire,4,5,4,5,5,5,5,5,5,5
+383,2019,Lanarkshire,5,4,4,5,5,5,5,5,5,4
+384,2019,Lanarkshire,5,4,4,5,4,4,4,5,4,4
+385,2019,Lanarkshire,4,5,4,5,5,5,5,5,5,NA
+386,2019,Lanarkshire,4,5,5,4,5,5,5,5,5,NA
+387,2019,Lanarkshire,4,5,4,5,5,5,5,5,5,5
+388,2019,Lanarkshire,4,5,5,5,5,5,5,5,5,4
+389,2019,Lanarkshire,2,3,4,5,4,5,5,5,5,4
+390,2019,Lanarkshire,2,2,4,5,4,5,5,5,4,4
+391,2019,Lanarkshire,4,3,4,5,4,5,5,5,5,4
+392,2019,Lanarkshire,4,5,4,4,4,4,4,4,4,5
+393,2019,Lanarkshire,5,5,4,4,4,4,5,4,4,5
+394,2019,Lanarkshire,4,5,4,NA,NA,NA,NA,NA,NA,NA
+395,2019,Lanarkshire,2,4,4,3,5,5,5,4,4,5
+396,2019,Lanarkshire,5,5,5,5,5,5,4,5,5,5
+397,2019,Lanarkshire,5,4,5,5,4,5,5,5,5,5
+398,2019,Lanarkshire,4,2,4,4,4,5,5,5,5,5
+399,2019,Lanarkshire,4,5,4,5,4,5,5,5,4,5
+400,2019,Lanarkshire,4,4,5,4,5,5,5,5,5,5
+401,2019,Lanarkshire,5,5,4,5,5,5,5,5,5,5
+402,2019,Lanarkshire,4,4,4,4,5,5,4,5,4,4
+403,2019,Lanarkshire,4,5,4,5,4,5,5,5,5,5
+404,2019,Lanarkshire,4,3,2,4,4,4,4,5,5,4
+405,2019,Lanarkshire,4,5,4,5,5,5,5,5,5,5
+406,2019,Lanarkshire,2,4,5,4,3,4,4,5,5,4
+407,2019,Lanarkshire,4,3,3,5,5,5,5,5,4,5
+408,2019,Lanarkshire,4,3,3,5,4,5,5,5,5,5
+409,2019,Lanarkshire,4,2,3,5,4,5,5,5,5,5
+410,2019,Lanarkshire,4,4,5,5,5,5,5,5,5,4
+411,2019,Lanarkshire,4,4,5,5,5,5,5,5,5,5
+412,2019,Lanarkshire,4,4,5,5,5,5,5,5,5,5
+413,2019,Lanarkshire,4,3,4,5,5,4,5,5,5,5
+414,2019,Lanarkshire,5,5,4,4,5,4,5,5,5,5
+415,2019,Lanarkshire,4,5,5,5,5,5,5,5,5,5
+416,2019,Lanarkshire,4,4,4,4,4,4,4,5,4,5
+417,2019,Lanarkshire,3,5,4,5,5,4,5,5,5,5
+418,2019,Lanarkshire,4,4,4,5,5,5,5,5,5,5
+419,2019,Lanarkshire,5,3,3,5,4,4,5,5,5,4
+420,2019,Lanarkshire,5,4,5,4,4,5,4,5,5,4
+421,2019,Lanarkshire,4,5,5,4,5,4,4,5,5,5
+422,2019,Lanarkshire,5,4,4,5,5,5,5,5,5,NA
+423,2019,Lanarkshire,4,4,2,4,5,5,5,5,5,5
+424,2019,Lanarkshire,5,5,4,4,4,4,4,5,5,4
+425,2019,Lanarkshire,4,3,4,5,4,5,5,5,5,5
+426,2019,Lanarkshire,4,4,5,NA,NA,NA,NA,NA,NA,NA
+427,2019,Lanarkshire,4,4,5,5,5,5,5,5,5,5
+428,2019,Lanarkshire,4,5,4,4,5,4,5,5,5,NA
+429,2019,Lanarkshire,3,3,3,5,5,4,5,5,5,5
+430,2019,Lanarkshire,3,3,3,4,4,4,5,5,5,5
+431,2019,Lanarkshire,3,3,3,5,5,5,5,5,5,5
+432,2019,Lanarkshire,5,5,5,4,4,5,NA,NA,NA,5
+433,2019,Lanarkshire,2,3,5,5,5,5,5,5,5,5
+434,2019,Lanarkshire,2,2,4,5,5,5,5,5,5,5
+435,2019,Lanarkshire,4,4,4,4,5,5,5,5,5,5
+436,2019,Lanarkshire,2,5,5,5,5,5,NA,NA,NA,5
+437,2019,Lanarkshire,3,4,5,4,4,5,4,5,5,4
+438,2019,Lanarkshire,4,4,3,4,4,4,4,5,4,5
+439,2019,Lanarkshire,4,3,4,5,4,5,5,5,5,5
+440,2019,Lanarkshire,4,5,4,5,5,5,5,5,4,5
+441,2019,Lanarkshire,4,5,4,4,5,5,5,4,4,5
+442,2019,Lanarkshire,5,5,5,5,5,5,5,5,5,5
+443,2019,Lanarkshire,5,4,5,5,5,5,5,5,5,5
+444,2019,Lanarkshire,2,4,5,3,4,5,5,5,4,NA
+445,2019,Lanarkshire,4,2,3,5,5,5,5,5,5,5
+446,2019,Lanarkshire,3,4,3,4,4,5,4,5,5,5
+447,2019,Lanarkshire,4,4,3,5,4,5,5,5,4,5
+448,2019,Lanarkshire,4,4,3,5,4,5,5,5,4,5
+449,2019,Lanarkshire,4,4,4,4,4,4,5,5,5,4
+450,2019,Lanarkshire,3,4,5,4,4,5,5,4,3,4
+451,2019,Lanarkshire,5,4,4,5,5,5,5,5,4,NA
+452,2019,Saltcoats,3,5,3,3,5,4,4,5,5,4
+453,2019,Saltcoats,3,5,3,5,4,4,4,5,5,4
+454,2019,Saltcoats,5,5,3,5,4,4,5,5,5,5
+455,2019,Saltcoats,4,4,4,4,4,5,5,5,5,4
+456,2019,Saltcoats,3,4,4,4,4,4,4,4,4,5
+457,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+458,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+459,2019,Saltcoats,3,4,4,3,5,4,4,5,5,3
+460,2019,Saltcoats,5,3,3,2,2,2,4,5,5,3
+461,2019,Saltcoats,3,4,4,4,5,4,4,5,5,5
+462,2019,Saltcoats,2,1,2,3,4,3,3,5,5,4
+463,2019,Saltcoats,2,5,2,2,5,5,5,5,5,5
+464,2019,Saltcoats,1,3,3,2,5,5,3,5,5,5
+465,2019,Saltcoats,4,3,4,5,4,3,4,5,5,3
+466,2019,Saltcoats,4,5,4,4,3,4,4,5,4,4
+467,2019,Saltcoats,3,2,1,5,5,4,5,5,5,5
+468,2019,Saltcoats,4,5,4,5,4,5,4,5,5,5
+469,2019,Saltcoats,4,5,4,4,5,3,4,5,5,5
+470,2019,Saltcoats,3,3,3,3,4,3,3,4,4,3
+471,2019,Saltcoats,4,4,4,5,4,4,4,5,5,4
+472,2019,Saltcoats,3,4,2,4,5,5,5,4,4,4
+473,2019,Saltcoats,4,4,4,4,3,4,4,5,5,4
+474,2019,Saltcoats,4,4,3,5,5,5,5,5,4,5
+475,2019,Saltcoats,4,4,3,5,4,4,4,5,5,4
+476,2019,Saltcoats,4,4,4,4,4,4,4,5,5,4
+477,2019,Saltcoats,4,3,4,5,4,5,4,5,5,4
+478,2019,Saltcoats,3,4,3,5,4,5,5,5,4,4
+479,2019,Saltcoats,5,3,3,4,5,5,5,5,5,4
+480,2019,Saltcoats,4,4,4,5,5,5,5,5,5,5
+481,2019,Saltcoats,4,4,4,5,5,5,5,5,5,5
+482,2019,Saltcoats,5,4,4,5,5,4,5,5,5,5
+483,2019,Saltcoats,2,4,3,2,4,4,5,5,5,5
+484,2019,Saltcoats,3,4,3,5,4,4,4,5,4,4
+485,2019,Saltcoats,3,4,3,4,4,4,5,5,5,5
+486,2019,Saltcoats,3,4,3,5,5,4,5,4,4,4
+487,2019,Saltcoats,4,3,3,5,5,5,5,5,5,5
+488,2019,Saltcoats,3,3,3,5,5,5,5,5,5,5
+489,2019,Saltcoats,4,4,3,5,5,5,5,5,5,5
+490,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+491,2019,Saltcoats,4,4,3,5,5,5,5,5,5,5
+492,2019,Saltcoats,4,1,3,5,4,4,5,5,4,5
+493,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+494,2019,Saltcoats,4,4,5,5,5,5,5,5,5,5
+495,2019,Saltcoats,5,3,4,5,5,5,5,5,5,5
+496,2019,Saltcoats,4,4,4,5,5,5,5,5,5,NA
+497,2019,Saltcoats,5,5,4,5,4,5,5,5,5,5
+498,2019,Saltcoats,4,4,4,5,5,5,5,5,5,5
+499,2019,Saltcoats,4,5,5,4,5,5,5,5,5,3
+500,2019,Saltcoats,4,3,1,4,4,4,4,4,5,5
+501,2019,Saltcoats,4,4,3,4,4,4,4,5,5,4
+502,2019,Saltcoats,5,5,5,5,5,5,5,5,NA,5
+503,2019,Saltcoats,3,4,4,4,4,5,4,5,5,4
+504,2019,Saltcoats,4,5,4,5,5,5,5,5,5,5
+505,2019,Saltcoats,3,4,4,5,5,4,4,5,5,5
+506,2019,Saltcoats,5,3,3,5,4,4,4,5,5,4
+507,2019,Saltcoats,5,4,4,5,5,5,5,5,5,5
+508,2019,Saltcoats,4,5,4,5,5,5,5,4,4,4
+509,2019,Saltcoats,5,4,4,5,5,4,5,5,5,5
+510,2019,Saltcoats,4,5,4,5,4,5,5,5,5,5
+511,2019,Saltcoats,1,4,4,4,5,4,3,5,5,5
+512,2019,Saltcoats,5,5,5,4,5,5,5,5,5,4
+513,2019,Saltcoats,4,5,4,4,5,5,5,5,5,5
+514,2019,Saltcoats,4,4,4,5,4,5,5,5,5,5
+515,2019,Saltcoats,3,4,4,5,5,4,5,5,5,5
+516,2019,Saltcoats,4,4,3,5,5,4,5,5,5,5
+517,2019,Saltcoats,5,5,4,5,4,4,4,5,5,5
+518,2019,Saltcoats,3,3,2,4,4,4,4,4,4,5
+519,2019,Saltcoats,4,3,3,5,5,5,5,5,5,5
+520,2019,Saltcoats,4,3,4,4,3,3,3,4,4,4
+521,2019,Saltcoats,4,3,4,4,4,4,3,4,4,4
+522,2019,Saltcoats,4,5,4,5,5,4,5,5,5,5
+523,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+524,2019,Saltcoats,4,3,5,5,4,5,5,5,5,5
+525,2019,Saltcoats,5,5,5,NA,NA,NA,NA,NA,NA,NA
+526,2019,Saltcoats,4,4,4,NA,NA,NA,NA,NA,NA,NA
+527,2019,Saltcoats,2,5,4,4,5,5,5,5,5,5
+528,2019,Saltcoats,5,5,4,5,4,4,5,5,5,5
+529,2019,Saltcoats,4,4,5,5,4,5,5,5,5,5
+530,2019,Saltcoats,2,2,2,5,5,4,5,5,5,5
+531,2019,Saltcoats,5,5,5,5,5,5,5,5,5,5
+532,2019,Saltcoats,4,4,5,5,4,5,5,5,5,5
+533,2019,Saltcoats,5,5,3,5,5,4,5,5,5,5
+534,2019,Saltcoats,2,3,2,4,4,3,4,4,4,5
+535,2019,Saltcoats,4,5,3,4,5,5,5,5,4,5
+536,2019,Saltcoats,1,4,4,4,4,4,4,4,4,4
+537,2019,Saltcoats,4,4,3,5,5,4,5,5,5,5
+538,2019,Saltcoats,4,4,3,4,4,4,4,5,5,4
+539,2019,North Ayrshire,4,4,3,4,4,4,5,4,4,5
+540,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+541,2019,North Ayrshire,4,4,4,4,4,4,NA,NA,NA,4
+542,2019,North Ayrshire,4,3,4,5,4,5,5,5,5,5
+543,2019,North Ayrshire,4,3,3,5,5,5,4,5,5,5
+544,2019,North Ayrshire,4,3,3,5,4,5,5,5,5,5
+545,2019,North Ayrshire,3,3,5,5,5,5,5,5,5,5
+546,2019,North Ayrshire,5,4,4,5,4,5,5,5,5,4
+547,2019,North Ayrshire,4,5,5,4,4,4,5,5,5,5
+548,2019,North Ayrshire,4,4,4,5,4,4,4,5,5,5
+549,2019,North Ayrshire,4,5,5,5,5,5,5,5,4,5
+550,2019,North Ayrshire,5,5,4,5,5,5,5,5,5,5
+551,2019,North Ayrshire,3,3,2,5,4,5,5,5,5,5
+552,2019,North Ayrshire,2,3,2,3,4,5,4,5,3,5
+553,2019,North Ayrshire,4,5,4,5,5,5,5,5,5,5
+554,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+555,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,5
+556,2019,North Ayrshire,5,5,4,4,5,4,4,5,4,4
+557,2019,North Ayrshire,5,4,5,5,5,5,5,4,4,5
+558,2019,North Ayrshire,4,5,4,5,5,5,5,5,5,5
+559,2019,North Ayrshire,4,5,5,5,5,5,4,5,5,5
+560,2019,North Ayrshire,5,5,5,5,5,4,4,5,5,5
+561,2019,North Ayrshire,4,5,4,4,5,5,5,5,5,5
+562,2019,North Ayrshire,4,5,4,5,5,5,5,5,5,5
+563,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,5
+564,2019,North Ayrshire,4,4,5,4,5,5,5,5,5,5
+565,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+566,2019,North Ayrshire,2,4,4,4,4,5,5,4,5,5
+567,2019,North Ayrshire,4,3,4,5,4,5,5,5,5,5
+568,2019,North Ayrshire,3,3,3,4,4,5,5,5,5,5
+569,2019,North Ayrshire,5,5,5,NA,NA,NA,NA,NA,NA,NA
+570,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,4
+571,2019,North Ayrshire,4,3,4,5,4,4,4,5,5,4
+572,2019,North Ayrshire,1,1,1,5,5,5,5,5,5,5
+573,2019,North Ayrshire,4,5,3,5,4,4,5,5,5,5
+574,2019,North Ayrshire,4,4,4,4,4,4,4,5,4,4
+575,2019,North Ayrshire,4,5,4,5,5,5,5,5,5,5
+576,2019,North Ayrshire,4,5,3,5,5,5,5,5,5,5
+577,2019,North Ayrshire,5,4,5,5,5,5,5,5,NA,5
+578,2019,North Ayrshire,3,4,4,3,4,4,5,5,4,5
+579,2019,North Ayrshire,4,3,4,5,5,4,5,4,4,5
+580,2019,North Ayrshire,4,4,4,4,5,5,5,5,5,5
+581,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,4
+582,2019,North Ayrshire,4,3,4,4,5,5,5,5,5,4
+583,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+584,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,5
+585,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,5
+586,2019,North Ayrshire,1,2,2,5,5,5,4,5,5,5
+587,2019,North Ayrshire,4,4,5,5,4,5,5,5,5,5
+588,2019,North Ayrshire,5,4,5,5,4,4,4,5,5,5
+589,2019,North Ayrshire,4,4,5,5,5,5,5,5,5,5
+590,2019,North Ayrshire,2,3,3,4,4,4,5,5,4,NA
+591,2019,North Ayrshire,4,4,5,5,4,5,5,5,5,5
+592,2019,North Ayrshire,1,4,4,2,5,5,4,5,4,3
+593,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+594,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+595,2019,North Ayrshire,5,4,4,5,4,4,5,5,5,4
+596,2019,North Ayrshire,3,3,3,4,5,5,4,5,5,5
+597,2019,North Ayrshire,3,4,5,4,4,5,5,5,5,5
+598,2019,North Ayrshire,2,5,5,3,5,5,3,5,5,4
+599,2019,North Ayrshire,3,4,4,5,5,5,5,5,5,5
+600,2019,North Ayrshire,3,2,1,4,4,4,4,4,4,5
+601,2019,North Ayrshire,1,2,4,4,5,5,5,5,5,4
+602,2019,North Ayrshire,4,3,1,4,4,4,5,5,5,NA
+603,2019,North Ayrshire,4,3,1,4,4,5,4,5,5,5
+604,2019,North Ayrshire,4,4,3,4,5,4,4,5,5,4
+605,2019,North Ayrshire,4,4,3,5,5,3,5,5,5,4
+606,2019,North Ayrshire,5,5,4,5,4,4,5,5,5,5
+607,2019,North Ayrshire,4,5,5,5,5,5,5,5,5,5
+608,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+609,2019,North Ayrshire,5,4,5,5,5,5,5,5,5,5
+610,2019,North Ayrshire,4,4,2,5,4,4,5,5,5,5
+611,2019,North Ayrshire,5,5,5,5,4,5,5,5,5,5
+612,2019,North Ayrshire,3,5,4,4,5,5,4,5,5,5
+613,2019,North Ayrshire,4,5,5,4,5,5,5,5,4,4
+614,2019,North Ayrshire,3,4,4,3,4,4,4,5,5,5
+615,2019,North Ayrshire,3,3,3,4,4,4,4,5,5,NA
+616,2019,North Ayrshire,3,4,3,4,4,4,4,5,5,5
+617,2019,North Ayrshire,2,3,3,5,5,5,5,5,5,5
+618,2019,North Ayrshire,2,3,3,5,5,5,5,5,5,5
+619,2019,North Ayrshire,2,3,3,5,5,5,5,5,5,5
+620,2019,North Ayrshire,2,3,3,5,5,5,5,5,5,5
+621,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+622,2019,North Ayrshire,4,2,3,5,4,4,5,5,5,4
+623,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+624,2019,North Ayrshire,4,3,4,5,5,4,5,5,5,4
+625,2019,North Ayrshire,5,4,4,5,5,5,5,5,5,5
+626,2019,North Ayrshire,4,4,3,4,4,4,5,5,5,5
+627,2019,North Ayrshire,4,2,1,4,4,4,4,5,4,4
+628,2019,North Ayrshire,4,4,4,4,4,4,4,5,4,4
+629,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+630,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,4
+631,2019,North Ayrshire,4,3,4,4,4,5,3,5,4,5
+632,2019,North Ayrshire,4,4,NA,5,5,5,5,5,5,5
+633,2019,North Ayrshire,4,5,4,4,4,4,4,5,5,5
+634,2019,North Ayrshire,4,5,5,4,4,4,4,5,5,5
+635,2019,North Ayrshire,3,4,3,3,4,2,4,4,4,3
+636,2019,North Ayrshire,4,4,4,5,5,4,5,5,5,5
+637,2019,North Ayrshire,4,4,4,5,5,5,5,5,5,5
+638,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,4
+639,2019,North Ayrshire,5,5,5,4,4,4,4,5,5,5
+640,2019,North Ayrshire,3,4,3,5,5,5,5,5,5,4
+641,2019,North Ayrshire,3,4,3,4,4,4,4,5,5,5
+642,2019,North Ayrshire,3,5,4,5,5,5,5,5,5,NA
+643,2019,North Ayrshire,5,5,5,4,5,5,4,5,4,5
+644,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+645,2019,North Ayrshire,4,3,2,5,5,5,5,5,5,5
+646,2019,North Ayrshire,3,3,2,4,4,4,4,5,5,5
+647,2019,North Ayrshire,5,5,5,5,5,5,5,5,5,5
+648,2019,North Ayrshire,5,3,4,5,4,5,5,5,5,NA
+649,2019,North Ayrshire,3,2,4,4,4,5,4,5,4,5
+650,2019,North Ayrshire,4,4,5,5,5,5,5,4,5,5
+651,2019,North Ayrshire,5,4,5,5,4,5,5,5,5,5
+652,2019,North Ayrshire,4,4,5,5,5,5,5,5,5,5
+653,2019,North Ayrshire,5,4,5,5,4,5,5,5,5,5
+654,2019,North Ayrshire,4,3,5,4,5,5,NA,5,5,5
+655,2019,North Ayrshire,4,3,4,5,4,4,4,5,5,5

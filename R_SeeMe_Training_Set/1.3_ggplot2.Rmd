@@ -1,0 +1,23 @@
+---
+title: "SeeMe Scotland"
+author: "Shahrukh Gill"
+date: "04/10/2020"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+#Should already be installed on your computer
+```
+
+Tidyverse is a package that helps you orgenise and manage large data samples.
+
+Here are some of SeeMe's data from our SMHFA surveys.
+```{r}
+tidy_data <- read.csv("SeeMe_SMHFA_Data.csv")
+```
+
+
+
+
+

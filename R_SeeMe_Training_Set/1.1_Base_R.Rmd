@@ -1,0 +1,78 @@
+---
+title: "SeeMe Scotland"
+author: "Shahrukh Gill"
+date: "04/10/2020"
+output: html_document
+---
+
+'Base R' is the Original language used in R and is always where we start.
+
+when begining it is important to create working directory.
+click the "Session" tab, then "set working directory" and then "Choose Directory..." to find a suitable place to keep all the files we make.
+
+
+Base R can be used to create data frames, vectors and matrixes.
+
+Here are some vectors we can create
+```{r}
+c(2, 4, 6) 
+
+2:6 
+
+seq(2, 3, by=0.5)
+
+rep(1:2, times=3)
+
+rep(1:2, each=3)
+```
+
+
+
+Here is a random data frame we can make.
+```{r}
+mydata <- data.frame(id = 1:5, x = c('stigma', 'mental health', 'discrimination', 'wellbeing', 'engagment'), Time = c(5.50,3.23,11.23,1.15,10.59), n = rep(50,5), y = c(20,35.4,45,55.5,70.6), z = c(6,17,26,37,44))
+
+mydata
+```
+
+Hashtags"#" can help when you want to leave comments or harmless data inside the code.
+
+```{r}
+#try and debug this to match the original code and create the "mydata" data frame
+4*5
+```
+
+Base R can also write data
+```{r}
+write.csv(mydata, "mydata.csv")
+```
+and read data
+```{r}
+mydata2 <- read.csv("mydata.csv") 
+```
+
+R also has pachages like tidyverse and ggplot2 and several others that save your time and energy.
+
+Lets have a look at one. 
+
+They may need to be insalled if you have not installed them before using this function install.packages() e.g. install.packages("tidyverse")
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(psych)
+```
+
+```{r}
+
+```
+
+also, Base R usues conditions which can be used inside functions:
+a == b Are equal 
+a > b Greater than 
+a >= b Greater than or equal to 
+is.na(a) Is missing
+a != b Not equal 
+a < b Less than 
+a <= b Less than or equal to 
+is.null(a) Is null

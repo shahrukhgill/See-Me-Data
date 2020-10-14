@@ -1,0 +1,48 @@
+---
+title: "SeeMe Scotland"
+author: "Shahrukh Gill"
+date: "04/10/2020"
+output: html_document
+---
+
+```{r}
+sample(c("H","T"), size = 8, replace = TRUE)  
+sample(1:6, size = 2, replace = TRUE, prob=.6) #loaded dice
+```
+
+
+```{r}
+rnorm(6) #  6 std nrml distribution values
+rnorm(10, mean = 50, sd = 19) # set parameters
+runif(n = 10, min = 0, max = 1) #uniform distribution
+rpois(n = 10, lambda = 15) # Poisson distribution
+ # toss coin 8 times using binomial distribution 
+rbinom(n = 8, size = 1, p = 0.5)
+rbinom(8,1,.5) # args correct order
+ # 18 trials, sample size 10, prob success =.2 
+rbinom(18, 10, 0.2)
+```
+
+```{r}
+rnorm(6) #  6 std nrml distribution values
+rnorm(10, mean = 50, sd = 19) # set parameters
+runif(n = 10, min = 0, max = 1) #uniform distribution
+rpois(n = 10, lambda = 15) # Poisson distribution
+ # toss coin 8 times using binomial distribution 
+rbinom(n = 8, size = 1, p = 0.5)
+rbinom(8,1,.5) # args correct order
+ # 18 trials, sample size 10, prob success =.2 
+rbinom(18, 10, 0.2)
+```
+
+
+```{r}
+rbinom(n=10, size=20, prob=.4)
+```
+
+```{r}
+mu <- 0; sigma <- 1 
+x <- seq(-4, 4, .01) 
+fx <- (1/sqrt(2*pi*sigma^2))*exp(-(x-mu)^2/(2*sigma^2))
+plot(x, fx, type = "l", lwd = 2)  
+```
